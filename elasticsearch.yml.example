@@ -1,0 +1,5 @@
+xpack.security.http.ssl:
+  enabled: true
+  key: /etc/elasticsearch/certs/elasticsearch.key
+  certificate: /etc/elasticsearch/certs/elasticsearch.crt
+  certificate_authorities: [ "/etc/elasticsearch/certs/ca.crt" ]

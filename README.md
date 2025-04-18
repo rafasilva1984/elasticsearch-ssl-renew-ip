@@ -38,5 +38,5 @@ See `elasticsearch.yml.example` for a config snippet to enable HTTP SSL with the
 
 ## 📚 Related
 
-- Blog post: [LinkedIn Article](https://www.linkedin.com/in/rafael-silva-observabilidade/)
-- Discuss.elastic.co forum: [Link to your answer]
+- Blog post: [[LinkedIn Article](https://www.linkedin.com/posts/rafael-silva-leader-coordenador_github-rafasilva1984elasticsearch-ssl-renew-ip-activity-7318834976781680640-kr58?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAinBaIBmFxhdmM7tBO0qoOGyZFvjgivJMg)]([https://www.linkedin.com/in/rafael-silva-observabilidade](https://www.linkedin.com/in/rafael-silva-leader-coordenador/)/)
+- Discuss.elastic.co forum: [https://discuss.elastic.co/t/regenerate-the-ssl-certificate-that-was-auto-generated-on-setup-of-elasticsearch/377216/5]
